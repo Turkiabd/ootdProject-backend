@@ -6,6 +6,7 @@ This project is a social networking platform allow to users to post and share th
 that I hope it helps building and evolving a fashion community
 
 ## Class diagram:
-[classDiagram](file:///C:/Users/i_Tur/Downloads/OOTD.drawio.pdf "classDiagram")
+[![](ootd.drawio.png)](http://ootd.drawio.png)
+
 
 
